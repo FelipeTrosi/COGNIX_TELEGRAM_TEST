@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Projetos Publicados\Telegram.Bot.Api</_PublishTargetUrl>
+    <History>True|2022-03-01T21:58:36.2891365Z;True|2022-02-21T17:23:24.9119757-03:00;True|2022-02-21T16:20:15.0146812-03:00;True|2022-02-21T13:43:50.8321040-03:00;True|2022-02-21T13:43:42.7365186-03:00;True|2022-02-21T13:38:13.7619896-03:00;True|2022-02-21T13:37:56.7560632-03:00;True|2022-02-21T13:37:47.6924790-03:00;True|2022-02-21T13:16:12.6973819-03:00;</History>
+  </PropertyGroup>
+</Project>

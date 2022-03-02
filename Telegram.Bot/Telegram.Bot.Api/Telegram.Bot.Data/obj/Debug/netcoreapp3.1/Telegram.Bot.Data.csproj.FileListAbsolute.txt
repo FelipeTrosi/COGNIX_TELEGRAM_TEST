@@ -1,0 +1,12 @@
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\bin\Debug\netcoreapp3.1\Telegram.Bot.Data.deps.json
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\bin\Debug\netcoreapp3.1\Telegram.Bot.Data.runtimeconfig.json
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\bin\Debug\netcoreapp3.1\Telegram.Bot.Data.runtimeconfig.dev.json
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\bin\Debug\netcoreapp3.1\Telegram.Bot.Data.dll
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\bin\Debug\netcoreapp3.1\Telegram.Bot.Data.pdb
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.AssemblyInfoInputs.cache
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.AssemblyInfo.cs
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.csproj.CoreCompileInputs.cache
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.dll
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.pdb
+C:\Projetos .Net\Hanon\Telegram.Bot\Telegram.Bot.Api\Telegram.Bot.Data\obj\Debug\netcoreapp3.1\Telegram.Bot.Data.genruntimeconfig.cache
