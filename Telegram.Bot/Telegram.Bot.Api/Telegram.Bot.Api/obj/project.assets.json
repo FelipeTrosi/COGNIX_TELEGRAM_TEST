@@ -172,6 +172,18 @@
           "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.InMemory/5.0.14": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.14"
+        },
+        "compile": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/5.0.14": {
         "type": "package",
         "dependencies": {
@@ -1742,6 +1754,20 @@
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.xml",
         "microsoft.entityframeworkcore.design.5.0.14.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/5.0.14": {
+      "sha512": "hg6w078HvUtlK9tIoKJJ+f905JNcYqMMbsbAEFQiSdhesFfrR+SrXbUuLCFhOg3sC8Iw6tNZeEglOSEsIifQ+Q==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.inmemory/5.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll",
+        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.xml",
+        "microsoft.entityframeworkcore.inmemory.5.0.14.nupkg.sha512",
+        "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/5.0.14": {
@@ -5596,6 +5622,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.7",
       "Microsoft.EntityFrameworkCore >= 5.0.14",
+      "Microsoft.EntityFrameworkCore.InMemory >= 5.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.14",
       "Telegram.Bot >= 17.0.0",
@@ -5609,11 +5636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
+      "projectUniqueName": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
       "projectName": "Telegram.Bot.Api",
-      "projectPath": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
+      "projectPath": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\obj\\",
+      "outputPath": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5651,6 +5678,10 @@
             "version": "[3.1.7, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.14, )"
+          },
+          "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
             "version": "[5.0.14, )"
           },

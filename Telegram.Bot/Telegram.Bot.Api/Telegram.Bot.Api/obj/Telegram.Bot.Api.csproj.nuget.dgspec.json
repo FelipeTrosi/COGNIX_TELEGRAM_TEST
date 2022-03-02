@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj": {}
+    "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj": {}
   },
   "projects": {
-    "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj": {
+    "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
+        "projectUniqueName": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
         "projectName": "Telegram.Bot.Api",
-        "projectPath": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
+        "projectPath": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\obj\\",
+        "outputPath": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,10 @@
               "version": "[3.1.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[5.0.14, )"
             },

@@ -59,10 +59,13 @@ namespace Telegram.Bot.Api
                        .AllowAnyHeader();
             }));
 
-            //services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DatabaseConnection")));
             services.AddDbContext<DatabaseContext>(options =>
-                     options.UseSqlServer(Configuration.GetConnectionString("DatabaseConnection")),
+                     options.UseInMemoryDatabase(databaseName: "Cognix"),
                      ServiceLifetime.Transient);
+
+            //services.AddDbContext<DatabaseContext>(options =>
+            //         options.UseSqlServer(Configuration.GetConnectionString("DatabaseConnection")),
+            //         ServiceLifetime.Transient);
 
         }
 

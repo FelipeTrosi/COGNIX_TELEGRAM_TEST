@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AeA000w9VV1BtAIOA83jyGph0/Xa5RkGlcFbVqRqrm8Xw/E0rYNAZWO2decIQwkgLgxxMOeTqBbDvhWwikIixA==",
+  "dgSpecHash": "afmpCNgxCWdpgwvJc6IWlvh4iPHWLeFg/yKY9M+UYy9J0GR7DoO6NvPxxo671KPou5GApKYdwvI0msyZUdfu+A==",
   "success": true,
-  "projectFilePath": "C:\\Projetos .Net\\Hanon\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
+  "projectFilePath": "C:\\Projetos .Net\\DEMOS\\TelegramHerokuIntegration\\COGNIX_TELEGRAM_TEST\\Telegram.Bot\\Telegram.Bot.Api\\Telegram.Bot.Api\\Telegram.Bot.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.7\\microsoft.aspnetcore.jsonpatch.3.1.7.nupkg.sha512",
@@ -14,6 +14,7 @@
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.14\\microsoft.entityframeworkcore.abstractions.5.0.14.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.14\\microsoft.entityframeworkcore.analyzers.5.0.14.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.14\\microsoft.entityframeworkcore.design.5.0.14.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.14\\microsoft.entityframeworkcore.inmemory.5.0.14.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.14\\microsoft.entityframeworkcore.relational.5.0.14.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.14\\microsoft.entityframeworkcore.sqlserver.5.0.14.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.14\\microsoft.entityframeworkcore.tools.5.0.14.nupkg.sha512",
